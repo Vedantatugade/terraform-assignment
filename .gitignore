@@ -1,0 +1,3 @@
+.terraform/
+*.Zone.Identifier
+*.tfplan*
